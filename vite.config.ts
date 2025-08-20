@@ -9,6 +9,7 @@ export default defineConfig(({ mode }) => ({
     host: "::",
     port: 8080,
   },
+  base:"/github-explorer",
   plugins: [
     react(),
     mode === 'development' &&
