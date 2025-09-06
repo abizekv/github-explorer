@@ -1,5 +1,5 @@
 ## Github Explorer
-![project-preview](/github-explorer/public/github-explorer-preview.png)
+![project-preview](public/github-explorer-preview.png)
 
 ## Introduction
 
