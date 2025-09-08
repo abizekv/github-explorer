@@ -66,25 +66,6 @@ GitHub Explorer successfully demonstrates how modern web technologies can be com
 
 ---
 
-## 📦 Project Structure
-
-```
-github-explorer/
-├── public/                # Static assets
-├── src/
-│   ├── components/        # UI and feature components
-│   ├── hooks/             # Custom React hooks
-│   ├── lib/               # Utility functions
-│   ├── pages/             # Page components (routing)
-│   ├── services/          # API services (GitHub API)
-│   ├── App.tsx            # Main app component
-│   └── main.tsx           # Entry point
-├── index.html
-├── package.json
-└── ...other config files
-```
-
----
 
 ## 🏁 Getting Started
 
@@ -110,15 +91,6 @@ github-explorer/
    ```
    http://localhost:8080
    ```
-
----
-
-## ⚙️ Scripts
-
-- `npm run dev` – Start development server
-- `npm run build` – Build for production
-- `npm run preview` – Preview production build
-- `npm run lint` – Lint the codebase
 
 ---
 
